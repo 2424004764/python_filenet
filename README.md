@@ -1,0 +1,2 @@
+# python_filenet
+python制作的类似cmd软件 可用pyinstaller编译为exe
